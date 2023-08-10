@@ -3,7 +3,7 @@
 ---
 
 ## Summary
-The Party ([[Caine\|Caine]], [[Pitch\|Pitch]], [[Characters/Players/Yue\|Yue]], [[Safaerys\|Safaerys]], and [[Characters/Players/Beltane\|Beltane]]) are hired by [[Characters/Gundren\|Gundren]] and [[Characters/Sildar Hallwinter\|Sildar]] to escort a caravan to [[Places/Shops/Barthen's Provisions\|Barthen's Provisions]] in [[Places/Phandalin\|Phandalin]]. After being ambushed by goblins, the Party found drag marks leading north to a secret path, eventually leading to a cavern. In the cavern, the Party battled goblins and a bugbear. After the battle in the cavern, the Party finds barrels marked with a blue lion, identified as the emblem of [[Places/Shops/Lionshield Coster\|Lionshield Coster]]. The Party also found and rescued [[Characters/Sildar Hallwinter\|Sildar]] in the cave, at which point he explained Gundren's story:
+The Party ([[Caine\|Caine]], [[Pitch\|Pitch]], [[Characters/Players/Yue\|Yue]], [[Characters/Players/Safaerys\|Safaerys]], and [[Characters/Players/Beltane\|Beltane]]) are hired by [[Characters/Gundren\|Gundren]] and [[Characters/Sildar Hallwinter\|Sildar]] to escort a caravan to [[Places/Shops/Barthen's Provisions\|Barthen's Provisions]] in [[Places/Phandalin\|Phandalin]]. After being ambushed by goblins, the Party found drag marks leading north to a secret path, eventually leading to a cavern. In the cavern, the Party battled goblins and a bugbear. After the battle in the cavern, the Party finds barrels marked with a blue lion, identified as the emblem of [[Places/Shops/Lionshield Coster\|Lionshield Coster]]. The Party also found and rescued [[Characters/Sildar Hallwinter\|Sildar]] in the cave, at which point he explained Gundren's story:
 
 >[!info]- Gundren's Story
 >Gundren and his brothers, Tharden and Nundro, found the entrance to [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]]. 500 years ago, a pact was made between Dwarves and Gnomes to create the [[Lore/Forge of Spells\|Forge of Spells]], which is said to be able to create magic artifacts. The [[Lore/Forge of Spells\|Forge of Spells]] was later seized by orcs, who then destroyed [[Places/Phandalin\|Phandalin]] and the entrance to [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]].
@@ -17,7 +17,7 @@ The Party heads to Phandalin to complete the caravan escort at Barthen's Provisi
 
 Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Zhentarim\|Zhentarim]] as an agent.
 
-The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find that:
+The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
 > [!important]+ Key Info
 > - [[Lore/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
 > - [[Characters/Iarno\|Glass Staff]] is a magic user who is hired by [[Characters/The Black Spider\|The Black Spider]]
