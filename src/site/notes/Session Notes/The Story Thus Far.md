@@ -9,7 +9,7 @@
 
 
 ## Summary
-The Party ([[Caine\|Caine]], [[Pitch\|Pitch]], [[Characters/Players/Yue\|Yue]], [[Safaerys\|Safaerys]], and [[Characters/Players/Beltane\|Beltane]]) are hired by [[Characters/Gundren\|Gundren]] and [[Characters/Sildar Hallwinter\|Sildar]] to escort a caravan to [[Places/Shops/Barthen's Provisions\|Barthen's Provisions]] in [[Places/Phandalin\|Phandalin]]. After being ambushed by goblins, the Party found drag marks leading north to a secret path, eventually leading to a cavern. In the cavern, the Party battled goblins and a bugbear. After the battle in the cavern, the Party finds barrels marked with a blue lion, identified as the emblem of [[Places/Shops/Lionshield Coster\|Lionshield Coster]]. The Party also found and rescued [[Characters/Sildar Hallwinter\|Sildar]] in the cave, at which point he explained Gundren's story:
+The Party ([[Caine\|Caine]], [[Pitch\|Pitch]], [[Characters/Players/Yue\|Yue]], [[Characters/Players/Safaerys\|Safaerys]], and [[Characters/Players/Beltane\|Beltane]]) are hired by [[Characters/Gundren\|Gundren]] and [[Characters/Sildar Hallwinter\|Sildar]] to escort a caravan to [[Places/Shops/Barthen's Provisions\|Barthen's Provisions]] in [[Places/Phandalin\|Phandalin]]. After being ambushed by goblins, the Party found drag marks leading north to a secret path, eventually leading to a cavern. In the cavern, the Party battled goblins and a bugbear. After the battle in the cavern, the Party finds barrels marked with a blue lion, identified as the emblem of [[Places/Shops/Lionshield Coster\|Lionshield Coster]]. The Party also found and rescued [[Characters/Sildar Hallwinter\|Sildar]] in the cave, at which point he explained Gundren's story:
 
 >[!info]- Gundren's Story
 >Gundren and his brothers, Tharden and Nundro, found the entrance to [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]]. 500 years ago, a pact was made between Dwarves and Gnomes to create the [[Lore/Forge of Spells\|Forge of Spells]], which is said to be able to create magic artifacts. The [[Lore/Forge of Spells\|Forge of Spells]] was later seized by orcs, who then destroyed [[Places/Phandalin\|Phandalin]] and the entrance to [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]].
@@ -23,7 +23,7 @@ The Party heads to Phandalin to complete the caravan escort at Barthen's Provisi
 
 Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Zhentarim\|Zhentarim]] as an agent.
 
-The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find that:
+The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
 > [!important]+ Key Info
 > - [[Lore/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
 > - [[Characters/Iarno\|Glass Staff]] is a magic user who is hired by [[Characters/The Black Spider\|The Black Spider]]
@@ -47,9 +47,9 @@ In celebration of the Party's victory over [[Characters/Iarno\|Glass Staff]], [[
 </div></div>
 
 
-### [[Session Notes/02 Thundertree, Cragmaw Castle\|02 Thundertree, Cragmaw Castle]]
+### [[Session Notes/02 Thundertree, Cragmaw Castle, and the Forge of Spells\|02 Thundertree, Cragmaw Castle, and the Forge of Spells]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/02-thundertree-cragmaw-castle/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/02-thundertree-cragmaw-castle-and-the-forge-of-spells/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -78,7 +78,32 @@ With new information from Reidoth, the Party moves in on [[Places/POIs/Cragmaw C
 On the way back to [[Places/Phandalin\|Phandalin]], the Party happen upon a clearing that has been charred, as if created by the impact of a meteor. In the clearing, the Party finds 5 giant blue shards made of material identical to [[Characters/Players/Beltane\|Beltane]]'s necklace. [[Characters/Players/Beltane\|Beltane]] wildshapes into an ox to bring a shard back to [[Places/Phandalin\|Phandalin]] in hopes of showing [[Characters/Reidoth\|Reidoth]]. 
 
 ### Phandalin
-Testing new publish
+[[Characters/Players/Beltane\|Oxtane]] goes to [[Places/POIs/Alderleaf Farm\|Alderleaf Farm]] in search of [[Characters/Reidoth\|Reidoth]], but Qelline advises that he had departed from town already. Beltane is allowed to keep the giant blue shard in the yard of [[Places/POIs/Alderleaf Farm\|Alderleaf Farm]]. 
+
+Beltane gets a new dream:
+> [!warning] Beltane's Vision
+>The sky shatters into pieces, falling onto the ground. Above, a fortress castle looms on a cloud. A huge shadowy figure appears, adorned with a jagged crown.
+
+The Party also obtain these tidbits of info:
+> [!important]+ Key Info
+> - With the help of [[Characters/Gundren\|Gundren]] and [[Characters/Sildar Hallwinter\|Sildar]], the Party deciphers a map from [[Places/POIs/Cragmaw Castle\|Cragmaw Castle]] that reveals the  location of [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]]: due east of [[Places/Phandalin\|Phandalin]]
+> - Details on the [[Lore/Forge of Spells\|Forge of Spells]] and a magical mace called **Lightbringer**
+
+### Wave Echo Cave
+The Party hones in on the location of [[Places/POIs/Wave Echo Cave\|Wave Echo Cave]] and enters a stone labyrinth. The Party finds the body of one of [[Characters/Gundren\|Gundren]]'s brothers, who was wearing enchanted boots - Pitch takes the boots. The Party continues to navigate the labyrinth, battling through giant slime and ghouls with  paralytic claw attacks. Eventually, their path opens to a cavern of glowing, phosphorescent fungi. The other side of the cavern is covered in mineral deposits that glitter like a starry night sky. Meanwhile, skeletons are littered across the floor of the cavern.
+
+Pitch discovers a room scorched and ruined, walls and roof bowing in. Once the Party steps inside, a spectral being rises from the ground, saying that it wants a gift and a favor. It explains that it wants anything arcane as a gift, and in return agrees to reward the Party with anything from the room <u>except</u> his smoking pipe. [[Characters/Players/Yue\|Yue]] offers a spell scroll.
+
+The Party enters another room and discovers a spectator - a being of many eyes. The spectator announces that he is the guardian of the Forge. In yet another room, a green flame brasier stands at the center - which [[Characters/Players/Yue\|Yue]] identifies as the [[Lore/Forge of Spells\|Forge of Spells]]. In the same room, Safaerys finds the magical mace **Lightbringer** and armor. 
+
+The Party returns to the spectral being. In their exchange, Caine and Safaerys steal the pipe, launching the Party into battle. 
+
+Safaearys and wolftane lead the party northeast, where the path opens up to a huge, underground cavern with a large body of water. They also find a locked door and as Caine considers picking it, a voice in the dark whispers:
+> You'll find your endeavors fruitful if you pick the lock. 
+
+The Party happen upon and fight through bugbears, a bugbear overseer, and giant spiders. In the corner of the far room, they find the body of a dwarf lying on the floor, unconscious. After fighting giant spiders, the body of the dwarf disappears - it was [[Characters/The Black Spider\|The Black Spider]] in disguise. [[Characters/Players/Yue\|Yue]] lands the finishing blow. Behind the locked door, the Party finds Nundro, [[Characters/Gundren\|Gundren]]'s other brother, unconscious but alive.
+
+The Party head back to [[Places/Phandalin\|Phandalin]] with Nundro in tow, reuniting [[Characters/Gundren\|Gundren]] and his brother. [[Characters/Halia Thornton\|Halia Thornton]] meet with the Party and gives a quest located in [[Places/Triboar\|Triboar]].
 
 </div></div>
 
