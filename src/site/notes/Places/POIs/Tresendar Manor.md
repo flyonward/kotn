@@ -3,4 +3,4 @@
 ---
 
 ## Summary & Info
-A large manse ruins on the eastern side of [[Places/Phandalin\|Phandalin]], used by [[Lore/Redbrands\|Redbrands]] as hideout.
+A large manse ruins on the eastern side of [[Places/Phandalin\|Phandalin]], used by [[Lore/Factions/Redbrands\|Redbrands]] as hideout.
