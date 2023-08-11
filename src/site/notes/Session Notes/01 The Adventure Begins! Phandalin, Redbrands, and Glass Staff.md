@@ -12,17 +12,17 @@ The Party also learns that [[Characters/Iarno\|Iarno]], Sildar's wizard contact 
 
 The Party heads to Phandalin to complete the caravan escort at Barthen's Provisions. Through conversation with various people, the Party learns that:
 > [!important]+ Key Info
-> - [[Lore/Redbrands\|Redbrands]], a group of ruffian vigilantes, settled into Phandalin 2 months ago - the same time as when [[Characters/Iarno\|Iarno]] disappeared
+> - [[Lore/Factions/Redbrands\|Redbrands]], a group of ruffian vigilantes, settled into Phandalin 2 months ago - the same time as when [[Characters/Iarno\|Iarno]] disappeared
 > - Redbrands are using [[Places/POIs/Tresendar Manor\|Tresendar Manor]] as their hideout
 
-Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Zhentarim\|Zhentarim]] as an agent.
+Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Factions/Zhentarim\|Zhentarim]] as an agent.
 
-The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
+The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Factions/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
 > [!important]+ Key Info
-> - [[Lore/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
+> - [[Lore/Factions/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
 > - [[Characters/Iarno\|Glass Staff]] is a magic user who is hired by [[Characters/The Black Spider\|The Black Spider]]
 
-The Party finds [[Droop\|Droop]], a malnourished and beaten goblin who was kept as a pet by the [[Lore/Redbrands\|Redbrands]]. Caine elects to keep and protect [[Droop\|Droop]]. 
+The Party finds [[Droop\|Droop]], a malnourished and beaten goblin who was kept as a pet by the [[Lore/Factions/Redbrands\|Redbrands]]. Caine elects to keep and protect [[Droop\|Droop]]. 
 
 The Party finds a dungeon holding 3 prisoners, who reveal themselves to be the family of Thel Dendrar: Mirna (wife), Nilsa (daughter), and Nars (son). Mirna and her family were from [[Places/Thundertree\|Thundertree]] and ran an herb and alchemy store, but they fled their home from an insurgence of undead. Mirna tells of a family heirloom that is still left inside the family-run store. Pitch, Beltane, and Yue escort the family out of the underground to safety.
 
