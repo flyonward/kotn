@@ -4,7 +4,7 @@
 
 ### Prominent Links:
 [[Session Notes/The Story Thus Far\|The Story Thus Far]]
-[[Random Pictures\|Random Pictures]]
+[[Memes, Y'all\|Memes, Y'all]]
 
 ### Major Locations
 | File                                                           | Description                                                                                    |
