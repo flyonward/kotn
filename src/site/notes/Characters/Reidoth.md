@@ -3,7 +3,7 @@
 ---
 
 ## Summary
-An old human druid located in [[Places/Thundertree\|Thundertree]]. A member of the [[Lore/Emerald Enclave\|Emerald Enclave]].
+An old human druid located in [[Places/Thundertree\|Thundertree]]. A member of the [[Lore/Factions/Emerald Enclave\|Emerald Enclave]].
 
 ## Appearance / Characteristics
 
