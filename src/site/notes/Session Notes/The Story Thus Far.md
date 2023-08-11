@@ -18,17 +18,17 @@ The Party also learns that [[Characters/Iarno\|Iarno]], Sildar's wizard contact 
 
 The Party heads to Phandalin to complete the caravan escort at Barthen's Provisions. Through conversation with various people, the Party learns that:
 > [!important]+ Key Info
-> - [[Lore/Redbrands\|Redbrands]], a group of ruffian vigilantes, settled into Phandalin 2 months ago - the same time as when [[Characters/Iarno\|Iarno]] disappeared
+> - [[Lore/Factions/Redbrands\|Redbrands]], a group of ruffian vigilantes, settled into Phandalin 2 months ago - the same time as when [[Characters/Iarno\|Iarno]] disappeared
 > - Redbrands are using [[Places/POIs/Tresendar Manor\|Tresendar Manor]] as their hideout
 
-Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Zhentarim\|Zhentarim]] as an agent.
+Safaerys meets with [[Characters/Halia Thornton\|Halia Thornton]] and joins [[Lore/Factions/Zhentarim\|Zhentarim]] as an agent.
 
-The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
+The Party moves in on [[Places/POIs/Tresendar Manor\|Tresendar Manor]] to pursue the [[Lore/Factions/Redbrands\|Redbrands]]. Through their advances and investigation, they find **Talon**, a hand axe that belonged to a knight of the Tresendar family. The Party also glean that:
 > [!important]+ Key Info
-> - [[Lore/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
+> - [[Lore/Factions/Redbrands\|Redbrands]] are hired by someone by the name of "[[Characters/Iarno\|Glass Staff]]"
 > - [[Characters/Iarno\|Glass Staff]] is a magic user who is hired by [[Characters/The Black Spider\|The Black Spider]]
 
-The Party finds [[Droop\|Droop]], a malnourished and beaten goblin who was kept as a pet by the [[Lore/Redbrands\|Redbrands]]. Caine elects to keep and protect [[Droop\|Droop]]. 
+The Party finds [[Droop\|Droop]], a malnourished and beaten goblin who was kept as a pet by the [[Lore/Factions/Redbrands\|Redbrands]]. Caine elects to keep and protect [[Droop\|Droop]]. 
 
 The Party finds a dungeon holding 3 prisoners, who reveal themselves to be the family of Thel Dendrar: Mirna (wife), Nilsa (daughter), and Nars (son). Mirna and her family were from [[Places/Thundertree\|Thundertree]] and ran an herb and alchemy store, but they fled their home from an insurgence of undead. Mirna tells of a family heirloom that is still left inside the family-run store. Pitch, Beltane, and Yue escort the family out of the underground to safety.
 
@@ -73,7 +73,7 @@ Enroute, the Party runs into twigblights and 2 giant spiders. After the battle, 
 The Party uses the art of disguise to enter a building overtaken by the cultists and successfully gather some intel. The Party could not decide a course of action, and in the process of discussion, Beltane wanders off and casts thunderwave on the door of the building. This draws the attention of the cultists, twigblights, and [[Characters/Venomfang\|Venomfang]], launching the Party into battle. [[Characters/Venomfang\|Venomfang]] flees to his tower and the Party pursues. [[Characters/Venomfang\|Venomfang]] was reluctant to fight further, revealing that he was driven from his home by giant spiders and that his sister spies on him through spiders. The Party fights him anyway and defeats him. Upon the defeat of [[Characters/Venomfang\|Venomfang]], [[Characters/Reidoth\|Reidoth]] rewards the Party with information on the location of [[Places/POIs/Cragmaw Castle\|Cragmaw Castle]] where [[Characters/Gundren\|Gundren]] is currently being held. 
 
 ### Cragmaw Castle (Phandalin)
-With new information from Reidoth, the Party moves in on [[Places/POIs/Cragmaw Castle\|Cragmaw Castle]]. The Party enters battle with hobgoblins, King Grall, and a drow ([[Characters/The Black Spider\|The Black Spider]]?). After the battle, the drow attempts to surrender but Caine kills him. The drow then changes shape into a lanky blue creature - a **Doppleganger**. The Party finds [[Characters/Gundren\|Gundren]] unconscious but revives him with Safaerys' goodberry. After waking up, [[Characters/Gundren\|Gundren]] explains that his brothehrs were taken captive by [[Characters/The Black Spider\|The Black Spider]]. 
+With new information from Reidoth, the Party moves in on [[Places/POIs/Cragmaw Castle\|Cragmaw Castle]]. The Party enters battle with hobgoblins, King Grall, and a drow ([[Characters/The Black Spider\|The Black Spider]]?). After the battle, the drow attempts to surrender but Caine kills him. The drow then changes shape into a lanky blue creature - a **Doppleganger**. The Party finds [[Characters/Gundren\|Gundren]] unconscious but revives him with Safaerys' goodberry. After waking up, [[Characters/Gundren\|Gundren]] explains that his brothers were taken captive by [[Characters/The Black Spider\|The Black Spider]]. 
 
 On the way back to [[Places/Phandalin\|Phandalin]], the Party happen upon a clearing that has been charred, as if created by the impact of a meteor. In the clearing, the Party finds 5 giant blue shards made of material identical to [[Characters/Players/Beltane\|Beltane]]'s necklace. [[Characters/Players/Beltane\|Beltane]] wildshapes into an ox to bring a shard back to [[Places/Phandalin\|Phandalin]] in hopes of showing [[Characters/Reidoth\|Reidoth]]. 
 
@@ -94,11 +94,11 @@ The Party hones in on the location of [[Places/POIs/Wave Echo Cave\|Wave Echo Ca
 
 Pitch discovers a room scorched and ruined, walls and roof bowing in. Once the Party steps inside, a spectral being rises from the ground, saying that it wants a gift and a favor. It explains that it wants anything arcane as a gift, and in return agrees to reward the Party with anything from the room <u>except</u> his smoking pipe. [[Characters/Players/Yue\|Yue]] offers a spell scroll.
 
-The Party enters another room and discovers a spectator - a being of many eyes. The spectator announces that he is the guardian of the Forge. In yet another room, a green flame brasier stands at the center - which [[Characters/Players/Yue\|Yue]] identifies as the [[Lore/Forge of Spells\|Forge of Spells]]. In the same room, Safaerys finds the magical mace **Lightbringer** and armor. 
+The Party enters another room and discovers a Spectator - a being of many eyes. The spectator announces that he is the guardian of the Forge. In yet another room, a green flame brasier stands at the center - which [[Characters/Players/Yue\|Yue]] identifies as the [[Lore/Forge of Spells\|Forge of Spells]]. In the same room, Safaerys finds the magical mace **Lightbringer** and armor. 
 
-The Party returns to the spectral being. In their exchange, Caine and Safaerys steal the pipe, launching the Party into battle. 
+The Party returns to the spectral being. In their exchange, Caine and Safaerys steal the pipe, launching the Party into battle against the spectre. It is noted that Yue and Beltane refused to join the fight. 
 
-Safaearys and wolftane lead the party northeast, where the path opens up to a huge, underground cavern with a large body of water. They also find a locked door and as Caine considers picking it, a voice in the dark whispers:
+After the battle, Safaearys and Wolftane lead the party northeast where the path opens up to a huge, underground cavern with a large body of water. They also find a locked door and as Caine considers picking it, a voice in the dark whispers:
 > You'll find your endeavors fruitful if you pick the lock. 
 
 The Party happen upon and fight through bugbears, a bugbear overseer, and giant spiders. In the corner of the far room, they find the body of a dwarf lying on the floor, unconscious. After fighting giant spiders, the body of the dwarf disappears - it was [[Characters/The Black Spider\|The Black Spider]] in disguise. [[Characters/Players/Yue\|Yue]] lands the finishing blow. Behind the locked door, the Party finds Nundro, [[Characters/Gundren\|Gundren]]'s other brother, unconscious but alive.
@@ -110,11 +110,15 @@ The Party head back to [[Places/Phandalin\|Phandalin]] with Nundro in tow, reuni
 
 ### [[Session Notes/03 Giants and the Shattering of the Ordning\|03 Giants and the Shattering of the Ordning]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/03-giants-and-the-shattering-of-the-ordning/#session-summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/03-giants-and-the-shattering-of-the-ordning/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## Session Summary
+## Summary
+
+The Party learn of some initial key figures located in [[Places/Triboar\|Triboar]]:
+- [[Characters/Urlam Stockspool\|Urlam Stockspool]], an important member of [[Lore/Factions/Zhentarim\|Zhentarim]]
+- [[Characters/Darathra Shendrel\|Darathra Shendrel]], leader of [[Places/Triboar\|Triboar]]
 ### Giant Castle on a Cloud
 The Party meets with [[Characters/Zephyros\|Zephyros]] in his home, the [[Places/Giant Castle On A Cloud\|Giant Castle On A Cloud]]. [[Characters/Zephyros\|Zephyros]] speaks of a prophecy of destruction and chaos, the Party agrees to travel to [[Places/Triboar\|Triboar]] on the Castle Cloud. The Party also obtains some information about Giants and their societal system:
 
@@ -138,13 +142,47 @@ The Party meets with [[Characters/Zephyros\|Zephyros]] in his home, the [[Places
 The Party arrives in [[Places/Triboar\|Triboar]], a large bustling mercantile town. Beltane notes of an untouched forest outside of town named [[Places/POIs/Gwaeron's Slumber\|Gwaeron's Slumber]]. It is said that worshippers of Gwaeron, God of Tracking, or Mieliki, Goddess of the Forest, would receive prophetic dreams if they slept there. For the night, [[Characters/Players/Yue\|Yue]] , Pitch, and Caine head to [[Places/Shops/Six Windows\|Six Windows]] while Beltane and Safaerys camp out in [[Places/POIs/Gwaeron's Slumber\|Gwaeron's Slumber]] in hopes to receive some prophetic dreams. 
 
 #### Gwaeron's Slumber-(Party)
-Beltane and Safaerys share information about their parents with each other, eating some pastries and sweetwater before falling asleep. In the middle of the night, Beltane is awoken and attacked by an oni. Beltane barely makes it by the skin of her teeth, but she and Safaerys are able to chase off the Oni.
+Beltane and Safaerys share information about their parents with each other, eating some pastries and sweetwater before falling asleep. In the middle of the night, Beltane is awoken and attacked by an **Oni**. Beltane barely makes it by the skin of her teeth, but she and Safaerys manage to chase off the oni, causing it to flee to the hills.
 #### Six Windows
 Meanwhile, Caine investigates [[Places/Shops/Six Windows\|Six Windows]] and discovers [[Characters/Tolmara Hysstryn\|Tolmara Hysstryn]] spying on him. Caine sneaks into her room after she falls asleep and lifts a key from her neck. The key unlocks the attic, and Caine finds the skeletal remains of Tolmara's husband hidden in the attic.
 ### The Siege of Triboar
-In the morning, the Party finds a large army of giants, orcs, magmen, and orogs sieging the town. The invaders are equipped with several catapults and are launching boulders into buildings. The army is led by two fire giants, [[Characters/Okssort\|Okssort]] and [[Characters/Ildman\|Ildman]]. The Party is joined by members of the town willing to defend their land.
+In the morning, the Party wakes up to a large army of giants, orcs, magmen, and orogs sieging the town. The invaders are equipped with several catapults and are destroying buildings with boulders. The army is led by two fire giants, [[Characters/Okssort\|Okssort]] and [[Characters/Ildman\|Ildman]]. The Party is joined by members of the town willing to defend their land.
 
-After the dust settles, [[Characters/Darathra Shendrel\|Darathra Shendrel]] invites the Party to the [[Places/POIs/Lord Protector's Tower\|Lord Protector's Tower]] where townsfolk offer work to the Party. 
+After the dust settles, [[Characters/Darathra Shendrel\|Darathra Shendrel]] invites the Party to the [[Places/POIs/Lord Protector's Tower\|Lord Protector's Tower]] where townsfolk offer work to the Party. [[Characters/Darathra Shendrel\|Darathra]] wishes the Party to investigate the fire giants' motives and shows the Party a large rod - known as [[Lore/Rod of Vonindod\|Rod of Vonindod]]. 
+
+> [!example] Possible Quests
+> - Pursue a wanted brigand named "Weevil". Deliver him to [[Places/Mirabar\|Mirabar]] for 5,000G
+> - Pay a visit to [[Characters/Harthos Zymorven\|Harthos Zymorven]], [[Characters/Urgala Meltimer\|Urgala Meltimer]]'s traveling companion, who has a giant-slayer greatsword. He currently lives in [[Places/Silverymoon\|Silverymoon]].
+> - Head to [[Places/Everlund\|Everlund]] and speak with [[Characters/Dral Thelev\|Dral Thelev]] about the [[Lore/Rod of Vonindod\|Rod of Vonindod]]
+> - Visit [[Places/Silverymoon\|Silverymoon]] and speak with the Margaster family. [[Characters/Othovir\|Othovir]] is their kin and the Margaster family has a stash of magical items
+> - Deliver a caravan to [[Noanar's Hold\|Noanar's Hold]]
+
+#### Gwaeron's Slumber (pt. 2)
+Upon hearing Beltane's and Safaerys' encounter with the **oni**, the Party decide to pay it another visit (spoiler alert: the Oni didn't live).
+#### Triboar
+Back in Triboar, the Party collects a cart and horse named Boris from Narth. Safaerys also purchases her own horse. Once all's been settled in Triboar, the Party sets their sights on [[Places/Yartar\|Yartar]]. 
+### Yartar
+Upon arriving at [[Places/Yartar\|Yartar]], an industrial riverport, the Party receives the appropriate permit to travel through the town for the day. At nightfall, the Party camps just outside of town. 
+
+In the morning, the Party is approached by a figure on horseback. He reveals himself to be [[Characters/Udomorn\|Udomorn]], a scholarly dragonborn studying giants. [[Characters/Udomorn\|Udomorn]] is in need of an escort to the town of [[Places/Calling Horns\|Calling Horns]] and wishes to further investigate troll activity in the Evermoors. The Party agrees to help in escorting [[Characters/Udomorn\|Udomorn]].
+
+Caine notices a crumbling tower to the north and the Party investigates. The tower was sealed off by a boulder and sounds of a wailing creature can be heard from within. [[Characters/Players/Yue\|Yue]] wants to call out to the creature and [[Characters/Udomorn\|Udomorn]] identifies the language as Giant. [[Characters/Udomorn\|Udomorn]] yells out in Giant in hopes of communication while the rest of the Party advances. Caine sends Gray to peer through the tower windows, finding a female hill giant sitting inside who begins to sing a mournful dirge. Just as [[Characters/Players/Yue\|Yue]] and [[Characters/Udomorn\|Udomorn]] devise a plan to move the boulder, the female giant stops singing and shoves the boulder out of the way, ready to fight.
+<< after the battle >>
+As the giant breathes her last, she whispers about her husband [[Characters/Hruk\|Hruk]]. Out of sympathy, [[Characters/Players/Yue\|Yue]] revives her. Thankfully, the giant does not seem to remember the fight with the Party and her death in battle. She divulges:
+> [!info] Info from Hill Giant, Moog
+> - The female hill giant is named [[Characters/Moog\|Moog]]
+> - Her husband, [[Characters/Hruk\|Hruk]], was forced by the tribe leader [[Guh\|Guh]] to [[Places/Grudd Haug\|Grudd Haug]]
+
+The Part agrees to help [[Characters/Moog\|Moog]]... later. But for now, they trek on towards [[Places/Calling Horns\|Calling Horns]].
+### Calling Horns
+What was once a small roadside inn, [[Places/Calling Horns\|Calling Horns]] is now a small settlement after it was purchased and expanded upon by its owner, [[Characters/Tamalin Zoar\|Tamalin Zoar]]. The Party heads into the original inn ([[Places/Shops/Calling Horns Inn\|Calling Horns Inn]]) and is greeted by a blonde halfing woman - but before she can even speak, [[Characters/Udomorn\|Udomorn]] requests an audience with [[Characters/Tamalin Zoar\|Tamalin]] immediately. The halfling warns that [[Characters/Tamalin Zoar\|Tamalin]] is eating dinner and does not like to be disturbed, but despite her warnings, [[Characters/Udomorn\|Udomorn]] will not be stopped. Eventually, [[Characters/Udomorn\|Udomorn]] convinces the woman to take the Party to her. Naturally, Tamalin is unpleased at the intrusion but reports that there have been attacks in the outlying farms and that farmers' livestock are being killed. Tamalin would prefer not to pay in gold, but rather write a *letter of recommendation* to either:
+- A friend in Everlund, or
+- The [[Lore/Factions/Hands of Yartar\|Hands of Yartar]], whom Caine identifies as the Thieves' Guild
+
+Before the sun rises, the Party is awoken by the sounds of horses screaming. Beltane runs out of her room to the stables; Caine sees from his window that something had broken through the walls of the stable.
+<small><sup>Editor's notes - pajama fun facts: Caine sleeps in Iarno's spare clothes, Beltane sleeps in her travel clothes and not her armor, Yue sleeps in silk pajamas, and Pitch sleeps in his pants.</sup></small>
+
+
 
 
 </div></div>
