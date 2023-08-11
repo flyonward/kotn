@@ -3,7 +3,7 @@
 ---
 
 ## Summary
-A shrewd businessman who runs a caravan company. Known as an important member of [[Lore/Zhentarim\|Zhentarim]].
+A shrewd businessman who runs a caravan company. Known as an important member of [[Lore/Factions/Zhentarim\|Zhentarim]].
 
 ## Appearance / Characteristics
 
