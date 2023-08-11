@@ -3,7 +3,7 @@
 ---
 
 ## Summary
-Agent of [[Lore/Zhentarim\|Zhentarim]] who recruited Safaerys.
+Agent of [[Lore/Factions/Zhentarim\|Zhentarim]] who recruited Safaerys.
 
 ## Appearance / Characteristics
 
