@@ -105,12 +105,14 @@ The Party happen upon and fight through bugbears, a bugbear overseer, and giant 
 
 The Party head back to [[Places/Phandalin\|Phandalin]] with Nundro in tow, reuniting [[Characters/Gundren\|Gundren]] and his brother. [[Characters/Halia Thornton\|Halia Thornton]] meet with the Party and gives a quest located in [[Places/Triboar\|Triboar]].
 
+![TravelLog-02.png](/img/user/z_Assets/TravelLog-02.png)
+
 </div></div>
 
 
-### [[Session Notes/03 Giants and the Shattering of the Ordning\|03 Giants and the Shattering of the Ordning]]
+### [[Session Notes/03 Triboar, Yartar, and Giants Galore\|03 Triboar, Yartar, and Giants Galore]]
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/03-giants-and-the-shattering-of-the-ordning/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/session-notes/03-triboar-yartar-and-giants-galore/#summary" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -155,7 +157,7 @@ After the dust settles, [[Characters/Darathra Shendrel\|Darathra Shendrel]] invi
 > - Pay a visit to [[Characters/Harthos Zymorven\|Harthos Zymorven]], [[Characters/Urgala Meltimer\|Urgala Meltimer]]'s traveling companion, who has a giant-slayer greatsword. He currently lives in [[Places/Silverymoon\|Silverymoon]].
 > - Head to [[Places/Everlund\|Everlund]] and speak with [[Characters/Dral Thelev\|Dral Thelev]] about the [[Lore/Rod of Vonindod\|Rod of Vonindod]]
 > - Visit [[Places/Silverymoon\|Silverymoon]] and speak with the Margaster family. [[Characters/Othovir\|Othovir]] is their kin and the Margaster family has a stash of magical items
-> - Deliver a caravan to [[Noanar's Hold\|Noanar's Hold]]
+> - Deliver a caravan to [[Places/Noanar's Hold\|Noanar's Hold]]
 
 #### Gwaeron's Slumber (pt. 2)
 Upon hearing Beltane's and Safaerys' encounter with the **oni**, the Party decide to pay it another visit (spoiler alert: the Oni didn't live).
@@ -164,7 +166,7 @@ Back in Triboar, the Party collects a cart and horse named Boris from Narth. Saf
 ### Yartar
 Upon arriving at [[Places/Yartar\|Yartar]], an industrial riverport, the Party receives the appropriate permit to travel through the town for the day. At nightfall, the Party camps just outside of town. 
 
-In the morning, the Party is approached by a figure on horseback. He reveals himself to be [[Characters/Udomorn\|Udomorn]], a scholarly dragonborn studying giants. [[Characters/Udomorn\|Udomorn]] is in need of an escort to the town of [[Places/Calling Horns\|Calling Horns]] and wishes to further investigate troll activity in the Evermoors. The Party agrees to help in escorting [[Characters/Udomorn\|Udomorn]].
+In the morning, the Party is approached by a figure on horseback. He reveals himself to be [[Characters/Udomorn\|Udomorn]], a scholarly dragonborn studying giants. [[Characters/Udomorn\|Udomorn]] is in need of an escort to the town of [[Places/Calling Horns\|Calling Horns]] and wishes to further investigate troll activity in the [[Places/Evermoors\|Evermoors]]. The Party agrees to help in escorting [[Characters/Udomorn\|Udomorn]].
 
 Caine notices a crumbling tower to the north and the Party investigates. The tower was sealed off by a boulder and sounds of a wailing creature can be heard from within. [[Characters/Players/Yue\|Yue]] wants to call out to the creature and [[Characters/Udomorn\|Udomorn]] identifies the language as Giant. [[Characters/Udomorn\|Udomorn]] yells out in Giant in hopes of communication while the rest of the Party advances. Caine sends Gray to peer through the tower windows, finding a female hill giant sitting inside who begins to sing a mournful dirge. Just as [[Characters/Players/Yue\|Yue]] and [[Characters/Udomorn\|Udomorn]] devise a plan to move the boulder, the female giant stops singing and shoves the boulder out of the way, ready to fight.
 << after the battle >>
@@ -175,13 +177,27 @@ As the giant breathes her last, she whispers about her husband [[Characters/Hruk
 
 The Part agrees to help [[Characters/Moog\|Moog]]... later. But for now, they trek on towards [[Places/Calling Horns\|Calling Horns]].
 ### Calling Horns
-What was once a small roadside inn, [[Places/Calling Horns\|Calling Horns]] is now a small settlement after it was purchased and expanded upon by its owner, [[Characters/Tamalin Zoar\|Tamalin Zoar]]. The Party heads into the original inn ([[Places/Shops/Calling Horns Inn\|Calling Horns Inn]]) and is greeted by a blonde halfing woman - but before she can even speak, [[Characters/Udomorn\|Udomorn]] requests an audience with [[Characters/Tamalin Zoar\|Tamalin]] immediately. The halfling warns that [[Characters/Tamalin Zoar\|Tamalin]] is eating dinner and does not like to be disturbed, but despite her warnings, [[Characters/Udomorn\|Udomorn]] will not be stopped. Eventually, [[Characters/Udomorn\|Udomorn]] convinces the woman to take the Party to her. Naturally, Tamalin is unpleased at the intrusion but reports that there have been attacks in the outlying farms and that farmers' livestock are being killed. Tamalin would prefer not to pay in gold, but rather write a *letter of recommendation* to either:
-- A friend in Everlund, or
-- The [[Lore/Factions/Hands of Yartar\|Hands of Yartar]], whom Caine identifies as the Thieves' Guild
+What was once a small roadside inn, [[Places/Calling Horns\|Calling Horns]] is now a small settlement after it was purchased and expanded upon by its owner, [[Characters/Tamalin Zoar\|Tamalin Zoar]]. The Party heads into the original inn ([[Places/Shops/Calling Horns Inn\|Calling Horns Inn]]) and is greeted by a blonde halfling woman - but before she can even speak, [[Characters/Udomorn\|Udomorn]] requests an audience with [[Characters/Tamalin Zoar\|Tamalin]] immediately. The halfling warns that [[Characters/Tamalin Zoar\|Tamalin]] is eating dinner and does not like to be disturbed, but despite her warnings, [[Characters/Udomorn\|Udomorn]] will not be stopped. Eventually, [[Characters/Udomorn\|Udomorn]] convinces the woman to take the Party to her. Naturally, Tamalin is displeased at the intrusion but reports that there have been attacks in the outlying farms and that farmers' livestock are being killed. If the Party decide to resolve the problem, Tamalin would prefer not to pay in gold but rather write a *letter of recommendation* to either:
+- A friend in [[Places/Everlund\|Everlund]], or
+- The [[Lore/Factions/Hands of Yartar\|Hands of Yartar]], which Caine identifies as the Thieves' Guild
 
-Before the sun rises, the Party is awoken by the sounds of horses screaming. Beltane runs out of her room to the stables; Caine sees from his window that something had broken through the walls of the stable.
-<small><sup>Editor's notes - pajama fun facts: Caine sleeps in Iarno's spare clothes, Beltane sleeps in her travel clothes and not her armor, Yue sleeps in silk pajamas, and Pitch sleeps in his pants.</sup></small>
+Before the sun rises, the Party is abruptly awoken by the sounds of screaming horses. Beltane dashes out of her room and heads towards the stables, wildshaping into a sabretooth tiger on the way; Caine sees from his window that something had broken through the stable walls.
+<small><sub><sup>Editor's notes: pajama fun facts - Caine sleeps in Iarno's spare clothes, Beltane sleeps in her travel clothes and not her armor, Yue sleeps in silk pajamas, and Pitch sleeps in his pants.</sup></sub></small>
+Equipped with the keen nose of a sabretooth tiger, Beltane catches the sent of trolls emanating from within. Rounding the corner, Beltane spots a pair of trolls beyond the broken walls and leaps into action, the rest of the Party following behind. Through their encounter, the Party learns that trolls have high regenerative capabilities, rendering them essentially immortal unless killed by fire or acid. Still, the Party emerges triumphant, bringing a semblance of peace to [[Places/Calling Horns\|Calling Horns]]. [[Characters/Tamalin Zoar\|Tamalin]] thanks the party for defending her town. <small><sub><sup>Editor's notes: will Tamalin reward the Party with the letter of recommendation that she promised? Find out next time!</sup></sub></small>
 
+After completing the escort of [[Characters/Udomorn\|Udomorn]] to [[Places/Calling Horns\|Calling Horns]], the Party decides against immediately heading into the [[Places/Evermoors\|Evermoors]], first stopping by [[Places/Noanar's Hold\|Noanar's Hold]] to deliver their cargo. The Party also convinced [[Characters/Udomorn\|Udomorn]] to tag along as well.
+
+![TravelLog-03a.png](/img/user/z_Assets/TravelLog-03a.png)
+### Noanar's Hold
+[[Places/Noanar's Hold\|Noanar's Hold]] is a small, spooky village with rattled folk and a shuttered keep that stands on a hill overlooking the village. The Party delivers the cargo to the groundskeeper of the Keep, who accepted the package but promptly shoo'd them off. Later that night, the Party heads to the [[Places/Shops/White Hart Inn\|White Hart Inn]] in search of respite from traveling. Opening the doors to the inn, they are met with a scene most peculiar - while patrons are seated at tables, chatting and dining as one would expect, a plethora of plates, glasses, mugs, and cutlery float about in the air moving throughout the inn on their own. The innkeeper catches their surprise and explain that the inn is ran with an army of permanently-summoned **Unseen Servants**. The innkeeper also warns the group from travelling at night; there are rumors of a group of undead hunters who prey on those from outside [[Places/Noanar's Hold\|Noanar's Hold]]. The group also meet three noble brothers from [[Places/Neverwinter\|Neverwinter]] who are planning to embark on an expedition to hunt a hill giant the next morning.
+
+Of course, as is customary in any D&D campaign, the Party does nothing with any of these obvious plot hooks and instead departs for the [[Places/Evermoors\|Evermoors]] before dawn of the next day. 
+### Evermoors
+The [[Places/Evermoors\|Evermoors]] is an area comprised of hills, troughs, chilly bogs, and swamps. There is a dense fog that permeates throughout the area and frequent gusts of wind. While the prevalent swamps usually make travelling rather difficult, [[Characters/Players/Safaerys\|Safaerys]]' affinity and familiarity with swamplands allow the group to navigate with ease. The Party quickly found troll tracks and, while following these tracks, stumble upon the lair of a **black dragon**. Within, they discover the skeletal remains of a large dragon and an empty alcove - presumably where the dragon used to stash its hoard. During their investigation, dragon eggs begin to hatch, revealing wyrmlings and locking the Party into battle! After their successful battle against the wyrmlings, [[Characters/Players/Safaerys\|Safaerys]] and [[Caine\|Caine]] are telepathically lured towards two hidden abominations called **Otyughs**. Luckily, the group spot the ambush and are able to defeat the horrible creatures.
+
+Venturing deeper into the lair, the Party finds a fire giant holding what looks to be a [[Lore/Rod of Vonindod\|Rod of Vonindod]]. Accompanying the fire giant is a troll, collared and on a leash - a pet? The group tries to avoid catching the attention of the giant by using Safaerys' `Pass Without a Trace`, but they are still spotted. Despite suffering considerable damage and Caine nearly falling in battle, the Party defeats the giant and her pet troll and clutches onto victory. From the giant, the group loots a sack of random items including a pig named [[Characters/Not Food\|Not Food]]. [[Characters/Not Food\|Not Food]] takes a liking to Caine.
+### Calling Horns
+Back at [[Places/Calling Horns\|Calling Horns]], the Party meets with [[Characters/Tamalin Zoar\|Tamalin Zoar]] and advises of the presence of fire giants in the [[Places/Evermoors\|Evermoors]], the [[Lore/Rod of Vonindod\|Rod of Vonindod]], and the giants' search for adamantium constructs. [[Characters/Tamalin Zoar\|Tamalin]] writes them a *letter of recommendation* to her friend in Everlund, [[Characters/Dral Thelev\|Dral Thelev]] - the same person that [[Characters/Darathra Shendrel\|Darathra Shendrel]], leader of [[Places/Triboar\|Triboar]], urged the group to seek out in regards to the [[Lore/Rod of Vonindod\|Rod of Vonindod]]. 
 
 
 
