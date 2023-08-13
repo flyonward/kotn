@@ -54,4 +54,4 @@ The Party happen upon and fight through bugbears, a bugbear overseer, and giant 
 
 The Party head back to [[Places/Phandalin\|Phandalin]] with Nundro in tow, reuniting [[Characters/Gundren\|Gundren]] and his brother. [[Characters/Halia Thornton\|Halia Thornton]] meet with the Party and gives a quest located in [[Places/Triboar\|Triboar]].
 #### Travel Log
-![TravelLog-02.png|500](/img/user/z_Assets/TravelLog-02.png)
+![TravelLog-02.png|575](/img/user/z_Assets/TravelLog-02.png)
