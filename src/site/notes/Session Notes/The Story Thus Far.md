@@ -105,7 +105,7 @@ The Party happen upon and fight through bugbears, a bugbear overseer, and giant 
 
 The Party head back to [[Places/Phandalin\|Phandalin]] with Nundro in tow, reuniting [[Characters/Gundren\|Gundren]] and his brother. [[Characters/Halia Thornton\|Halia Thornton]] meet with the Party and gives a quest located in [[Places/Triboar\|Triboar]].
 #### Travel Log
-![TravelLog-02.png|500](/img/user/z_Assets/TravelLog-02.png)
+![TravelLog-02.png|575](/img/user/z_Assets/TravelLog-02.png)
 
 </div></div>
 
@@ -185,7 +185,7 @@ Before the sun rises, the Party is abruptly awoken by the sounds of screaming ho
 <small><sub><sup>Editor's notes: pajama fun facts - Caine sleeps in Iarno's spare clothes, Beltane sleeps in her travel clothes and not her armor, Yue sleeps in silk pajamas, and Pitch sleeps in his pants.</sup></sub></small>
 Equipped with the keen nose of a sabretooth tiger, Beltane catches the sent of trolls emanating from within. Rounding the corner, Beltane spots a pair of trolls beyond the broken walls and leaps into action, the rest of the Party following behind. Through their encounter, the Party learns that trolls have high regenerative capabilities, rendering them essentially immortal unless killed by fire or acid. Still, the Party emerges triumphant, bringing a semblance of peace to [[Places/Calling Horns\|Calling Horns]]. [[Characters/Tamalin Zoar\|Tamalin]] thanks the party for defending her town. <small><sub><sup>Editor's notes: will Tamalin reward the Party with the letter of recommendation that she promised? Find out next time!</sup></sub></small>
 #### Travel Log
-![TravelLog-03a.png|500](/img/user/z_Assets/TravelLog-03a.png)
+![TravelLog-03a.png|575](/img/user/z_Assets/TravelLog-03a.png)
 
 After completing the escort of [[Characters/Udomorn\|Udomorn]] to [[Places/Calling Horns\|Calling Horns]], the Party decides against immediately heading into the [[Places/Evermoors\|Evermoors]] by first stopping at [[Places/Noanar's Hold\|Noanar's Hold]] to deliver their cargo. The Party also convinced [[Characters/Udomorn\|Udomorn]] to tag along as well.
 ### Noanar's Hold
