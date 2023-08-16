@@ -6,8 +6,9 @@
 Noanar's Hold is a spooky little village with rattled folk and a creepy shuttered keep located on a hill, overlooking the village.
 ## Landmarks / POIs
 
-| File | Description |
-| ---- | ----------- |
+| File                                                | Description                                                                    |
+| --------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[Places/POIs/Huntlords' Keep\|Huntlords' Keep]] | A shuttered keep standing on a hill, overlooking the village of Noanar's Hold. |
 
 { .block-language-dataview}
 
